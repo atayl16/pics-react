@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pics-react/static/css/main.5f54c86f.css",
+    "main.js": "/pics-react/static/js/main.dd843aee.js",
+    "index.html": "/pics-react/index.html",
+    "main.5f54c86f.css.map": "/pics-react/static/css/main.5f54c86f.css.map",
+    "main.dd843aee.js.map": "/pics-react/static/js/main.dd843aee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f54c86f.css",
+    "static/js/main.dd843aee.js"
+  ]
+}
